@@ -72,7 +72,7 @@
 ---
 
 📫 **Reach me at:**  
-<a href="mailto:you@example.com">you@example.com</a> | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+ [LinkedIn](https://www.linkedin.com/in/lamine-younes-977a38270/) | [Portfolio](https://lmyounes.vercel.app/)
 
 ---
 
