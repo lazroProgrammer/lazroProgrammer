@@ -29,6 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Jinja2-informational?logo=python&logoColor=white" style="height: 28px; vertical-align: middle;" />
 
@@ -77,7 +78,7 @@
 - 🛠️ I build mobile and web apps from the ground up.
 - 🤖 I love automating processes and reducing friction.
 - 🔍 Constantly learning, shipping, improving.
-- 🌍 Partticpants in hackathons, club activities and such.
+- 🌍 Particpant in hackathons, club activities and such.
 - 🔥 Passionate about building things that solve problems and provide real value.
 
 ---
