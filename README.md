@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lamine</h1>
 <p align="center">
   <em>A versatile full-stack and cross-platform developer focused on building impactful mobile, web, and automation solutions.</em>
-</p>
+<!-- </p>
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/%20Watch%20App%20Videos-Google%20Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch App Videos" />
@@ -10,6 +10,7 @@
 
 
 ---
+[![Application's Previews](./assets/banner.svg)](https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link)
 
 ### 🧰 My Core Stack
 
@@ -73,6 +74,11 @@
 </p>
 
 ---
+
+### **Github stats:**
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lazroProgrammer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazroProgrammer&layout=compact&theme=radical&hide=jupyter%20notebook)
+![Streak](https://streak-stats.demolab.com?user=lazroProgrammer&theme=radical)
 
 ### 🚀 A Bit About Me
 - 🛠️ I build mobile and web apps from the ground up.
