@@ -69,9 +69,9 @@
 ---
 
 ### **Github stats:**
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lazroProgrammer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazroProgrammer&layout=compact&theme=radical&hide=jupyter%20notebook)
 ![Streak](https://streak-stats.demolab.com?user=lazroProgrammer&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazroProgrammer&layout=compact&theme=radical&hide=jupyter%20notebook)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lazroProgrammer&show_icons=true&theme=radical)
 
 ### 🚀 A Bit About Me
 - 🛠️ I build mobile and web apps from the ground up.
