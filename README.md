@@ -1,18 +1,35 @@
-<h1 align="center">Hi there 👋, I'm Lamine</h1>
-<p align="center">
-  <em>A versatile full-stack and cross-platform developer focused on building impactful mobile, web, and automation solutions.</em>
-</p>
+<table>
+<tr>
+<td valign="top" width="40%">
 
-[![Application's Previews](cinematic_banner.svg)](https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link)
+```bash
+$ whoami
+> full-stack & cross-platform developer
+
+$ focus
+> mobile · web · automation
+
+$ mission
+> building software that actually matters
+```
+
+</td>
+<td valign="top" align="right" width="60%">
+
+<a href="https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link"><img src="cinematic_banner.svg" width="1000"/></a>
+
+</td>
+</tr>
+</table>
+
 
 ### 🧰 My Core Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -21,7 +38,9 @@
 
 #### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
