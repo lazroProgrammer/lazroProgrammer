@@ -1,16 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Lamine</h1>
 <p align="center">
   <em>A versatile full-stack and cross-platform developer focused on building impactful mobile, web, and automation solutions.</em>
-<!-- </p>
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/%20Watch%20App%20Videos-Google%20Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch App Videos" />
-  </a>
 </p>
 
-
----
-[![Application's Previews](./assets/banner.svg)](https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link)
+[![Application's Previews](cinematic_banner.svg)](https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link)
 
 ### 🧰 My Core Stack
 
