@@ -1,5 +1,13 @@
 <table>
 <tr>
+  <td valign="top" align="right" width="60%">
+
+<a href="https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link"><img src="cinematic_banner.svg" width="1000"/></a>
+
+</td>
+</tr>
+  
+<tr>
 <td valign="top" width="40%">
 
 ```bash
@@ -14,12 +22,8 @@ $ mission
 ```
 
 </td>
-<td valign="top" align="right" width="60%">
-
-<a href="https://drive.google.com/drive/folders/1tgj0GmfaPAlurdEedaKrOXba7_cbRX2V?usp=drive_link"><img src="cinematic_banner.svg" width="1000"/></a>
-
-</td>
 </tr>
+
 </table>
 
 
