@@ -93,9 +93,13 @@ $ mission
 
 ### **Github stats:**
 ![Streak](https://streak-stats.demolab.com?user=lazroProgrammer&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazroProgrammer&layout=compact&theme=radical&hide=jupyter%20notebook)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lazroProgrammer&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lazroProgrammer&layout=compact&theme=radical&hide=jupyter%20notebook)
+<!-- Temporarily disabled because of 502 errors 
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lazroProgrammer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazroProgrammer&layout=compact&theme=radical&hide=jupyter%20notebook&v=1)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lazroProgrammer&show_icons=true&theme=radical&v=1)
+-->
+---
 ### 🚀 A Bit About Me
 - 🛠️ I build mobile and web apps from the ground up.
 - 🤖 I love automating processes and reducing friction.
