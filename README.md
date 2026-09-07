@@ -12,7 +12,7 @@
 
 ```bash
 $ whoami
-> full-stack & cross-platform developer
+> Software Engineer . Mobile App Developer . Desktop App Developer
 
 $ focus
 > mobile · web · automation
