@@ -15,7 +15,7 @@ $ whoami
 > Software Engineer . Mobile App Developer . Desktop App Developer
 
 $ focus
-> mobile · web · automation
+> mobile · python . web
 
 $ mission
 > building software that actually matters
