@@ -101,8 +101,8 @@ $ mission
 -->
 ---
 ### 🚀 A Bit About Me
-- 🛠️ I build mobile and web apps from the ground up.
-- 🤖 I love automating processes and reducing friction.
+- 🛠️ I build mobile and desktop apps from the ground up.
+- 🤖 I do automate processes to reduce friction.
 - 🔍 Constantly learning, shipping, improving.
 - 🌍 Particpant in hackathons, club activities and such.
 - 🔥 Passionate about building things that solve problems and provide real value.
@@ -110,7 +110,7 @@ $ mission
 ---
 
 📫 **Reach me at:**  
- [LinkedIn](https://www.linkedin.com/in/lamine-younes-977a38270/) | [Portfolio](https://lmyounes.vercel.app/)
+ [LinkedIn](https://www.linkedin.com/in/lamine-younes-977a38270/) | [Portfolio](https://lamineyounes.vercel.app/)
 
 ---
 
