@@ -48,7 +48,6 @@ $ mission
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Jinja2-informational?logo=python&logoColor=white" style="height: 28px; vertical-align: middle;" />
 
 </p>
 
